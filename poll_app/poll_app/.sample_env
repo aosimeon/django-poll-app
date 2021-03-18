@@ -1,0 +1,2 @@
+SECRET_KEY=< Secret key >
+DEBUG=< True | False >
